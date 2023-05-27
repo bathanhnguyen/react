@@ -1,0 +1,5 @@
+0: là admin
+
+1: là nhân viên
+
+2: là khách hàng
