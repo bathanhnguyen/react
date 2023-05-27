@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd56610d.css",
+    "main.js": "/static/js/main.4ddfa2d4.js",
+    "static/js/787.d23b38cd.chunk.js": "/static/js/787.d23b38cd.chunk.js",
+    "static/media/coming_soon_bg.jpg": "/static/media/coming_soon_bg.80ea1e6f6b983d54d491.jpg",
+    "static/media/testimonial-bg.jpg": "/static/media/testimonial-bg.1fb6ffb59340abbbe708.jpg",
+    "static/media/banner-image.jpg": "/static/media/banner-image.7e3b8c7f757f3079ec65.jpg",
+    "static/media/dealer-logo.jpg": "/static/media/dealer-logo.3e351af635bcfd1bd3b2.jpg",
+    "static/media/facts_bg.jpg": "/static/media/facts_bg.dc3269ac2856d972bb65.jpg",
+    "static/media/contact-page-header-img.jpg": "/static/media/contact-page-header-img.220693f89ee8a64d8abf.jpg",
+    "static/media/fun-facts-bg.jpg": "/static/media/fun-facts-bg.ed65fd4d5d63bbbe690e.jpg",
+    "static/media/listing-page-header-img.jpg": "/static/media/listing-page-header-img.b7dfa2a3830741125c30.jpg",
+    "static/media/aboutus-page-header-img.jpg": "/static/media/aboutus-page-header-img.90d63cf78b25b144eb74.jpg",
+    "static/media/profile-page-header-img.jpg": "/static/media/profile-page-header-img.89e514ab882a3e78c110.jpg",
+    "static/media/help_bg.jpg": "/static/media/help_bg.834848a69f5ebc1560e7.jpg",
+    "static/media/compare-page-header-img.jpg": "/static/media/compare-page-header-img.eef4a237afee1a9e90c4.jpg",
+    "static/media/error404-page-header-img.jpg": "/static/media/error404-page-header-img.378758f7c36a89f11e14.jpg",
+    "static/media/support_faq_bg.jpg": "/static/media/support_faq_bg.001842b8c1285819b729.jpg",
+    "static/media/about_services_faq_bg.jpg": "/static/media/about_services_faq_bg.4611d40a71d30bca29df.jpg",
+    "static/media/services-page-header-img.jpg": "/static/media/services-page-header-img.46727a2f74f02cb8b228.jpg",
+    "static/media/blog-page-header-img.jpg": "/static/media/blog-page-header-img.86c9010b99b6a26884af.jpg",
+    "static/media/listing-detail-header-img.jpg": "/static/media/listing-detail-header-img.8682a995933b8e3ac144.jpg",
+    "static/media/knowledge_base_bg.jpg": "/static/media/knowledge_base_bg.434aa7e7370d2a384373.jpg",
+    "static/media/img_390x390.jpg": "/static/media/img_390x390.96b358cd73c13ef89986.jpg",
+    "static/media/testimonial-content-bg.jpg": "/static/media/testimonial-content-bg.23ed162022ddab6a6ae5.jpg",
+    "static/media/logo.png": "/static/media/logo.ca006898594d66396735.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/microphone-black-shape.svg": "/static/media/microphone-black-shape.b5ad849204cf50671afa743f2c867c8a.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.fd56610d.css.map": "/static/css/main.fd56610d.css.map",
+    "main.4ddfa2d4.js.map": "/static/js/main.4ddfa2d4.js.map",
+    "787.d23b38cd.chunk.js.map": "/static/js/787.d23b38cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd56610d.css",
+    "static/js/main.4ddfa2d4.js"
+  ]
+}
